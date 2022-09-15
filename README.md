@@ -28,7 +28,5 @@
   <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmartt&show_icons=true&count_private=true&theme=dark"></a>
 
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=MALEROCHA02&show_icons=true&count_private=true&theme=dark" width="350"></a>
-<!--
-**Edmartt/Edmartt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=MALEROCHA03&show_icons=true&count_private=true&theme=dark" width="350"></a>
+
